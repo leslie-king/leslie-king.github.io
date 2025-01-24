@@ -33,21 +33,21 @@
     font-family: 'Reem Kufi', sans-serif;
 	font-size: 2em;
 	font-weight: 600;
-    color: #0a2e27;
+    color: #0e1b30;
 }
 
 .home-button {
     text-decoration: none;
-    color: #0a2e27; /* Your forest green color */
+    color: #0e1b30; /* Your forest green color */
     font-size: 1.2rem;
     padding: 10px 20px;
-    border: 2px solid #0a2e27;
+    border: 2px solid #0e1b30;
     border-radius: 5px;
     transition: all 0.3s ease;
 }
 
 .home-button:hover {
-    background-color: #0a2e27;
+    background-color: #0e1b30;
     color: white;
     transform: translateY(-2px); /* Slight lift effect on hover */
 }
